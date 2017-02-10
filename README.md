@@ -24,3 +24,11 @@ The tentative agenda for the conference:
 |            | 18:00-20:00 (TBC) | Software Bazaar                                                          | Submit a pitch   |
 | 2016-06-23 | 18:00-20:00 (TBC) | TBD: options include Software Bazaar II, mini-hackathon, genius bar, ... | Discuss and vote |
 |            |                   |                                                                          |                  |
+
+### Organizing committee
+
+* Karen Cranston
+* Kate Hertweck
+* Daisie Huang
+* François Michonneau
+* David Winter
