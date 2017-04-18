@@ -12,7 +12,7 @@ The tentative agenda for the conference:
 
 | **Date**   | **Time**          | **Event**                                                                |                  |
 |------------|-------------------|--------------------------------------------------------------------------|------------------|
-| 2016-06-23 | 9:00-10:00        | Keynote by Tracy Teal, Title TBD                                         |                  |
+| 2017-06-23 | 9:00-10:00        | Keynote by Tracy Teal, Title TBD                                         |                  |
 |            | 10:00-10:30       | Coffee break                                                             |                  |
 |            | 10:30-12:00       | Lighting talks                                                           | Submit your talk |
 |            | 12:00-12:30       | Bird of a Feather topic pitches                                          | Submit a topic   |
@@ -21,8 +21,7 @@ The tentative agenda for the conference:
 |            | 15:00-15:30       | Coffee break                                                             |                  |
 |            | 15:30-16:30       | Bird of Feather discussions (cont'd)                                     |                  |
 |            | 16:30-17:00       | Wrap up                                                                  |                  |
-|            | 18:00-20:00 (TBC) | Software Bazaar                                                          | Submit a pitch   |
-| 2016-06-24 | 18:00-20:00 (TBC) | TBD: options include Software Bazaar II, mini-hackathon, genius bar, ... | Discuss and vote |
+| 2017-06-24 | 18:00-20:00 (TBC) | Software Bazaar                                                          | Discuss and vote |
 |            |                   |                                                                          |                  |
 
 ### Organizing committee
