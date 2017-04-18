@@ -16,8 +16,8 @@ The tentative agenda for the conference:
 |            | 10:00-10:30       | Coffee break                                                             |                  |
 |            | 10:30-12:00       | Lighting talks                                                           | Submit your talk |
 |            | 12:00-12:30       | Bird of a Feather topic pitches                                          | Submit a topic   |
-|            | 12:30-13:30       | Lunch                                                                    |                  |
-|            | 13:30-15:00       | Bird of a Feather discussions                                            |                  |
+|            | 12:30-14:00       | Lunch                                                                    |                  |
+|            | 14:00-15:00       | Bird of a Feather discussions                                            |                  |
 |            | 15:00-15:30       | Coffee break                                                             |                  |
 |            | 15:30-16:30       | Bird of Feather discussions (cont'd)                                     |                  |
 |            | 16:30-17:00       | Wrap up                                                                  |                  |
