@@ -12,7 +12,7 @@ challenges for non-computational biologists".
 
 We are going coordinate this pre-conference discussion through GitHub. GitHub is
 a website that can be used to share source code. It also provides a really nice
-forum-like discussion tool through "issues". We ask anyone who would like
+forum-like discussion tool through "issues". We ask anyone who would like to
 present to the Software Bazaar, propose a topic for birds of a feather, or
 lighting talk,
 to [open an issue](https://github.com/2017-iEvoBio/organization/issues/new). The issue is prepopulated with a template for each of the possible proposal types. Modify this template to make it look like the examples for [a lighting talk](https://github.com/2017-iEvoBio/organization/issues/7), [a Bird of a Feather topic](https://github.com/2017-iEvoBio/organization/issues/6), or [a Software bazaar](https://github.com/2017-iEvoBio/organization/issues/5). Each iEvoBio participant can submit one lighting talk and one Software bazaar proposal. They can however submit multiple Bird of a feather topics.
