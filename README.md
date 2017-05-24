@@ -8,7 +8,7 @@ topics being discussed are decided by the participants before and
 during the event. The theme of 2017 iEvoBio is "Reproducibility
 challenges for non-computational biologists".
 
-**Please make sure you have [registered](http://www.evolutionmeetings.org/registration.html) to iEvoBio (it is seperate from the Evolution conference registration)**
+**Please make sure you have [registered](http://www.evolutionmeetings.org/registration.html) to iEvoBio (it is seperate from the Evolution conference registration but uses the same system)**
 
 ### How to submit a proposal for a Bird of a Feather topic/lighting talk/software bazaar?
 
