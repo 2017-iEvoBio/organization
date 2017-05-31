@@ -3,6 +3,8 @@
 The iEvoBio conference will take place before and during the first day
 of the Evolution Conference, June 23-24, 2017, in Portland, OR.
 
+[Schedule of Events](https://github.com/2017-iEvoBio/organization/blob/master/schedule.md)
+
 iEvoBio is an unconference: a good part of the organization and the
 topics being discussed are decided by the participants before and
 during the event. The theme of 2017 iEvoBio is "Reproducibility
