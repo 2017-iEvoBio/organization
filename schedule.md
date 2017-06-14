@@ -14,5 +14,5 @@ The tentative agenda for the conference:
 |            | 15:00-15:30       | Coffee break                                                             |                  |
 |            | 15:30-16:30       | Bird of Feather discussions (cont'd)                                     |                  |
 |            | 16:30-17:00       | Wrap up                                                                  |                  |
-| 2017-06-24 | 18:00-20:00 (TBC) | Software Bazaar                                                          |  |
+| 2017-06-24 | 18:30-20:30 (TBC) | Software Bazaar                                                          |  |
 |            |                   |                                                                          |                  |
