@@ -10,3 +10,6 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * ["FastNet: Fast and accurate inference of phylogenetic networks using large-scale genomic sequence data"](https://github.com/2017-iEvoBio/organization/issues/14)
 * ["phASE-Stitcher: A tool for phasing genome wide haplotype in F1 hybrids using Phase Informative Reads"](https://github.com/2017-iEvoBio/organization/issues/16)
 * ["Towards an automated phylogeny generator: integrating taxonomic information with supertree construction"](https://github.com/2017-iEvoBio/organization/issues/18)
+* ["Ten simple rules for collaborative lesson development"](https://github.com/2017-iEvoBio/organization/issues/24)
+* [""Nemo 3: a powerful tool for eco-evolutionary and population genetics modelling"](https://github.com/2017-iEvoBio/organization/issues/26)
+* ["Using Genome-Scale Data to Resolve Cryptic Species Problems"](https://github.com/2017-iEvoBio/organization/issues/28)
