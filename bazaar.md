@@ -14,3 +14,4 @@ If you would like to submit an entry to the Bazaar, please [submit an issue](htt
 * [Phylotastic](https://github.com/2017-iEvoBio/organization/issues/20)
 * [RevBayes](https://github.com/2017-iEvoBio/organization/issues/23)
 * [Nemo 3 and nemosub](https://github.com/2017-iEvoBio/organization/issues/27)
+* [SimBit](https://github.com/2017-iEvoBio/organization/issues/31)
