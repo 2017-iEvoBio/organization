@@ -14,3 +14,5 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * [""Nemo 3: a powerful tool for eco-evolutionary and population genetics modelling"](https://github.com/2017-iEvoBio/organization/issues/26)
 * ["Using Genome-Scale Data to Resolve Cryptic Species Problems"](https://github.com/2017-iEvoBio/organization/issues/28)
 * ["Progress towards more interoperable tree file formats"](https://github.com/2017-iEvoBio/organization/issues/32)
+* ["`rotl`: an R package to interact with the Open Tree of Life data"](https://github.com/2017-iEvoBio/organization/issues/34)
+* ["ape: Analyses of Phylogenetics and Evolution"](https://github.com/2017-iEvoBio/organization/issues/35)
