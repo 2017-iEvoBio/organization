@@ -19,4 +19,4 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * ["SimBit"](https://github.com/2017-iEvoBio/organization/issues/37)
 * ["Locus Tree Inference"](https://github.com/2017-iEvoBio/organization/issues/38)
 * ["aTRAM 2.0 faster assembly of loci from next-gen data"](https://github.com/2017-iEvoBio/organization/issues/39)
-* ["Stomata Counter: A tool for plant image analysis"], direct enquiries to @karlfetter
+* ["Stomata Counter: A tool for plant image analysis"](https://github.com/2017-iEvoBio/organization/issues/40)
