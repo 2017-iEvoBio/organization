@@ -11,7 +11,7 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * ["phASE-Stitcher: A tool for phasing genome wide haplotype in F1 hybrids using Phase Informative Reads"](https://github.com/2017-iEvoBio/organization/issues/16)
 * ["Towards an automated phylogeny generator: integrating taxonomic information with supertree construction"](https://github.com/2017-iEvoBio/organization/issues/18)
 * ["Ten simple rules for collaborative lesson development"](https://github.com/2017-iEvoBio/organization/issues/24)
-* [""Nemo 3: a powerful tool for eco-evolutionary and population genetics modelling"](https://github.com/2017-iEvoBio/organization/issues/26)
+* ["Nemo 3: a powerful tool for eco-evolutionary and population genetics modelling"](https://github.com/2017-iEvoBio/organization/issues/26)
 * ["Using Genome-Scale Data to Resolve Cryptic Species Problems"](https://github.com/2017-iEvoBio/organization/issues/28)
 * ["Progress towards more interoperable tree file formats"](https://github.com/2017-iEvoBio/organization/issues/32)
 * ["`rotl`: an R package to interact with the Open Tree of Life data"](https://github.com/2017-iEvoBio/organization/issues/34)
