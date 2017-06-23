@@ -17,3 +17,5 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * ["`rotl`: an R package to interact with the Open Tree of Life data"](https://github.com/2017-iEvoBio/organization/issues/34)
 * ["ape: Analyses of Phylogenetics and Evolution"](https://github.com/2017-iEvoBio/organization/issues/35)
 * ["SimBit"](https://github.com/2017-iEvoBio/organization/issues/37)
+* ["Locus Tree Inference"](https://github.com/2017-iEvoBio/organization/issues/38)
+* ["aTRAM 2.0 faster assembly of loci from next-gen data"](https://github.com/2017-iEvoBio/organization/issues/39)
