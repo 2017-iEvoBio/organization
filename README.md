@@ -1,7 +1,9 @@
 # iEvoBio 2017
 
 The iEvoBio conference will take place before and during the first day
-of the Evolution Conference, June 23-24, 2017, in Portland, OR.
+of the Evolution Conference, June 23-24, 2017, in Portland, OR. 
+One Friday, June 23 we will meet at 9 am in room B113 of the 
+Oregon Convention Center.
 
 [Schedule of Events](https://github.com/2017-iEvoBio/organization/blob/master/schedule.md)
 
