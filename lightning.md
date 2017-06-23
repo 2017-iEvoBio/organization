@@ -16,3 +16,4 @@ If you would like to submit a lightning talk, please [submit an issue](https://g
 * ["Progress towards more interoperable tree file formats"](https://github.com/2017-iEvoBio/organization/issues/32)
 * ["`rotl`: an R package to interact with the Open Tree of Life data"](https://github.com/2017-iEvoBio/organization/issues/34)
 * ["ape: Analyses of Phylogenetics and Evolution"](https://github.com/2017-iEvoBio/organization/issues/35)
+* ["SimBit"](https://github.com/2017-iEvoBio/organization/issues/37)
