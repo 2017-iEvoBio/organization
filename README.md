@@ -5,6 +5,8 @@ of the Evolution Conference, June 23-24, 2017, in Portland, OR.
 One Friday, June 23 we will meet at 9 am in room B113 of the 
 Oregon Convention Center.
 
+View our [WordPress](https://ievobio.wordpress.com) site for additional conference announcements.
+
 [Schedule of Events](https://github.com/2017-iEvoBio/organization/blob/master/schedule.md)
 
 iEvoBio is an unconference: a good part of the organization and the
